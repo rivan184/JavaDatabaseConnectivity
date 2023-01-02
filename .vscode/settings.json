@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.jdt.ls.vmargs": "--add-exports java.base/sun.security.action=ALL-UNNAMED"
+}
